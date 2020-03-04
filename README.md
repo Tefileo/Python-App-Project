@@ -1,4 +1,4 @@
-# IT Jobs Watch Data [Hope This Works Again]
+# IT Jobs Watch Data [Hope This Works]
 
 ## Introduction
 The aim of this project is to create a simple service that can scrape useful data from ITJobswatch.
